@@ -22,7 +22,7 @@ An interactive Power BI dashboard designed to analyze sales performance and unco
 - Power Query
 
 ## 📸 Dashboard Preview
-Kickstarter Power BI Dashboard.png
+/Kickstarter Power BI Dashboard.png
 
 ## 🎯 Project Goal
 Transform raw sales data into actionable insights and support data-driven decision making.
